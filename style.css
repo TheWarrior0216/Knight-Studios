@@ -16,3 +16,14 @@
   object-fit: cover;
   color: whitesmoke;
 }
+.spacing{
+  padding: 10em;
+}
+.spacing1{
+  padding: 5em;
+}
+div a{
+padding-left: 2em;
+color: black;
+text-decoration: none;
+}
