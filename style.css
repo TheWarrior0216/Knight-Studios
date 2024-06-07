@@ -13,8 +13,14 @@
 }
 .nooooooo{
   background-image: url(https://images.unsplash.com/photo-1494376877685-d3d2559d4f82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMGhvdXNlfGVufDB8fDB8fHww);
-  object-fit: cover;
   color: whitesmoke;
+  justify-content: center;
+}
+.more-img{
+  background-image: url(https://th.bing.com/th/id/OIP.HT_ayk9N63m7mBbwrVfNXAHaEK?rs=1&pid=ImgDetMain);
+  color: whitesmoke;
+  justify-content: center;
+  object-fit: cover;
 }
 .spacing{
   padding: 10em;
